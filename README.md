@@ -45,37 +45,37 @@ This project solves that gap by building a dynamic analytics dashboard.
   - Month-wise revenue trend
   - Weekly revenue analysis
   - Weekday performance insights
-  - Date-level drill-down capability
+  - Date-level drill-down capability  
 Insight: Revenue follows seasonal and behavioral patterns that can be leveraged for forecasting and campaign optimization.
 
 - <b>Top Performing Locations (Bar Chart)</b>
   - State-wise revenue comparison
-Market concentration identification
+  - Market concentration identification  
 Insight: Revenue is geographically concentrated, highlighting expansion opportunities.
 
 - <b>Revenue vs Cancellation Rate (Line + Column Chart)</b>
   - Revenue trends alongside cancellation percentage
-Revenue quality evaluation
+  - Revenue quality evaluation  
 Insight: High cancellation rates directly impact effective profitability.
 
 - <b>B2B vs B2C Orders (Donut Chart)</b>
-  - Customer segment contribution comparison
+  - Customer segment contribution comparison  
 Insight: Identifies business dependency on specific customer groups.
 
 - <b>Fulfillment by B2B (Donut Chart)</b>
-  - Operational load distribution
+  - Operational load distribution  
 Insight: Helps evaluate supply chain efficiency and risk concentration.
 
 - <b>High Demand Categories (Column Chart)</b>
-  - Product performance comparison
+  - Product performance comparison  
 Insight: Revenue is driven by select high-performing categories.
 
 - <b>Average Order Value (AOV) Trend (Line Chart)</b>
-  - Customer spending behavior over time
+  - Customer spending behavior over time  
 Insight: Differentiates revenue growth driven by volume vs basket size.
 
 - <b>Order Status Funnel (Funnel Chart)</b>
-  - Order lifecycle drop-off analysis
+  - Order lifecycle drop-off analysis  
 Insight: Identifies operational bottlenecks affecting order completion.
 
 <b>KPIs Included</b>
@@ -127,5 +127,5 @@ These filters enable dynamic scenario-based analysis.
 <b>Connect With Me</b>
 
 📧 Email: archissave5112@gmail.com  
-💼 LinkedIn: linkedin.com/in/archis-save  
+💼 LinkedIn: linkedin.com/in/archis-save
 💻 GitHub: https://github.com/Archis-Save   
