@@ -1,4 +1,4 @@
-#Executive Sales Performance Dashboard
+#Executive Sales Performance Dashboard  
 🚀 Project Overview
 
 This project presents an interactive Sales Performance Dashboard built to solve a real-world business problem for an e-commerce company operating in both B2B and B2C segments.
