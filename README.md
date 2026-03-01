@@ -1,184 +1,139 @@
-<h>Executive Sales Performance Dashboard</h>  
-🚀 Project Overview
+<h2><b>Executive Sales Performance Dashboard</b></h2>  
+<b>Project Overview</b>
 
-This project presents an interactive Sales Performance Dashboard built to solve a real-world business problem for an e-commerce company operating in both B2B and B2C segments.
-
-The objective was to transform raw transactional data into actionable business insights that support strategic and operational decision-making.
-
+This project presents an interactive Sales Performance Dashboard built to solve a real-world business problem for an e-commerce company operating in both B2B and B2C segments.  
+The objective was to transform raw transactional data into actionable business insights that support strategic and operational decision-making.  
 The dashboard enables leadership to monitor revenue growth, customer segmentation, operational efficiency, and profitability — all in a single, interactive interface.
 
-🏢 Business Background
+<b>Business Background</b>
 
 The company operates in a multi-channel e-commerce environment, selling products across multiple categories and serving customers across different states.
 
-Key characteristics:
+<b>Key characteristics:</b>
 
-B2B and B2C customer segments
-
-Multiple fulfillment types
-
-Various courier partners
-
-State-wise order distribution
-
-High transaction volume
+- B2B and B2C customer segments
+- Multiple fulfillment types
+- Various courier partners
+- State-wise order distribution
+- High transaction volume
 
 Despite having large amounts of data, the company lacked a centralized analytical system for performance monitoring.
 
-🎯 Problem Statement
+<b>Problem Statement</b>
 
 The business needed answers to critical questions:
 
-Is revenue growing consistently?
+- Is revenue growing consistently?
+- Which customer segment contributes more?
+- Which locations generate maximum revenue?
+- How do cancellations impact profitability?
+- Which product categories drive demand?
+- Where do orders drop off in the process?
 
-Which customer segment contributes more?
-
-Which locations generate maximum revenue?
-
-How do cancellations impact profitability?
-
-Which product categories drive demand?
-
-Where do orders drop off in the process?
-
-Manual reporting made decision-making reactive rather than strategic.
-
+Manual reporting made decision-making reactive rather than strategic.  
 This project solves that gap by building a dynamic analytics dashboard.
 
-🛠 Tools & Technologies Used
+<b>Tools & Technologies Used</b>
 
-Power BI – Dashboard development & visualization
+- Power BI – Dashboard development & visualization
+- DAX (Data Analysis Expressions) – KPI calculations & measures
+- Data Modeling – Relationship building & hierarchy structuring
+- Excel / CSV Dataset – Source data cleaning & transformation
 
-DAX (Data Analysis Expressions) – KPI calculations & measures
+<b>Dashboard Features & Insights</b>
+- <b>Revenue Growth Analysis (Line Chart – Drill Down)</b>
+  - Month-wise revenue trend
+  - Weekly revenue analysis
+  - Weekday performance insights
+  - Date-level drill-down capability
 
-Data Modeling – Relationship building & hierarchy structuring
+Insight: Revenue follows seasonal and behavioral patterns that can be leveraged for forecasting and campaign optimization.
 
-Excel / CSV Dataset – Source data cleaning & transformation
-
-📊 Dashboard Features & Insights
-1️⃣ Revenue Growth Analysis (Line Chart – Drill Down)
-
-Month-wise revenue trend
-
-Weekly revenue analysis
-
-Weekday performance insights
-
-Date-level drill-down capability
-
-🔎 Insight: Revenue follows seasonal and behavioral patterns that can be leveraged for forecasting and campaign optimization.
-
-2️⃣ Top Performing Locations (Bar Chart)
-
-State-wise revenue comparison
-
+- <b>Top Performing Locations (Bar Chart)</b>
+  - State-wise revenue comparison
 Market concentration identification
 
-🔎 Insight: Revenue is geographically concentrated, highlighting expansion opportunities.
+Insight: Revenue is geographically concentrated, highlighting expansion opportunities.
 
-3️⃣ Revenue vs Cancellation Rate (Line + Column Chart)
-
-Revenue trends alongside cancellation percentage
-
+- <b>Revenue vs Cancellation Rate (Line + Column Chart)</b>
+  - Revenue trends alongside cancellation percentage
 Revenue quality evaluation
 
-🔎 Insight: High cancellation rates directly impact effective profitability.
+Insight: High cancellation rates directly impact effective profitability.
 
-4️⃣ B2B vs B2C Orders (Donut Chart)
+- <b>B2B vs B2C Orders (Donut Chart)</b>
+  - Customer segment contribution comparison
 
-Customer segment contribution comparison
+Insight: Identifies business dependency on specific customer groups.
 
-🔎 Insight: Identifies business dependency on specific customer groups.
+- <b>Fulfillment by B2B (Donut Chart)</b>
+  - Operational load distribution
 
-5️⃣ Fulfillment by B2B (Donut Chart)
+Insight: Helps evaluate supply chain efficiency and risk concentration.
 
-Operational load distribution
+- <b>High Demand Categories (Column Chart)</b>
+  - Product performance comparison
 
-🔎 Insight: Helps evaluate supply chain efficiency and risk concentration.
+Insight: Revenue is driven by select high-performing categories.
 
-6️⃣ High Demand Categories (Column Chart)
+- <b>Average Order Value (AOV) Trend (Line Chart)</b>
+  - Customer spending behavior over time
 
-Product performance comparison
+Insight: Differentiates revenue growth driven by volume vs basket size.
 
-🔎 Insight: Revenue is driven by select high-performing categories.
+- <b>Order Status Funnel (Funnel Chart)</b>
+  - Order lifecycle drop-off analysis
 
-7️⃣ Average Order Value (AOV) Trend (Line Chart)
+Insight: Identifies operational bottlenecks affecting order completion.
 
-Customer spending behavior over time
+<b>KPIs Included</b>
 
-🔎 Insight: Differentiates revenue growth driven by volume vs basket size.
+- Total Orders
+- Total Revenue
+- Average Order Value (AOV)
+- Cancelled Orders
+- Cancellation Rate
 
-8️⃣ Order Status Funnel (Funnel Chart)
+<b>Interactive Filters</b>
 
-Order lifecycle drop-off analysis
-
-🔎 Insight: Identifies operational bottlenecks affecting order completion.
-
-📌 KPIs Included
-
-Total Orders
-
-Total Revenue
-
-Average Order Value (AOV)
-
-Cancelled Orders
-
-Cancellation Rate
-
-🎛 Interactive Filters
-
-Fulfillment Type
-
-Category
-
-Courier Status
-
-Shipping State
-
-B2B/B2C Segment
-
-Date
+- Fulfillment Type
+- Category
+- Courier Status
+- Shipping State
+- B2B/B2C Segment
+- Date
 
 These filters enable dynamic scenario-based analysis.
 
-💡 Key Business Outcomes
+<b>Key Business Outcomes</b>
 
-Clear visibility into revenue growth patterns
+- Clear visibility into revenue growth patterns
+- Identification of high-performing markets and products
+- Operational inefficiency detection
+- Revenue quality assessment
+- Data-driven strategic planning
 
-Identification of high-performing markets and products
-
-Operational inefficiency detection
-
-Revenue quality assessment
-
-Data-driven strategic planning
-
-📷 Dashboard Preview
-
-(Add screenshot image here in your repo — name it dashboard.png and embed below)
-
+<b>Dashboard Preview</b>
 ![Dashboard Preview](dashboard.png)
-🧠 Learning Outcomes
 
-Practical application of data modeling
+<b>Learning Outcomes</b>
 
-Advanced DAX measure creation
+- Practical application of data modeling
+- Advanced DAX measure creation
+- Business-focused visualization selection
+- Translating data into executive-level insights
+- Storytelling with analytics
 
-Business-focused visualization selection
+<b>Future Improvements</b>
 
-Translating data into executive-level insights
+- Add predictive forecasting
+- Implement customer cohort analysis
+- Add profitability metrics
+- Automate data refresh
+- Deploy to Power BI Service for live reporting
 
-Storytelling with analytics
+<b>Connect With Me</b>
 
-📈 Future Improvements
-
-Add predictive forecasting
-
-Implement customer cohort analysis
-
-Add profitability metrics
-
-Automate data refresh
-
-Deploy to Power BI Service for live reporting
+📧 Email: archissave5112@gmail.com  
+💼 LinkedIn: linkedin.com/in/archis-save  
+💻 GitHub: https://github.com/Archis-Save   
